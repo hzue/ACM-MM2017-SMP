@@ -6,7 +6,7 @@ Keras==2.0.4
 minepy==1.2.0
 numpy==1.12.1
 olefile==0.44
-Pillow==4.1.1
+Pillow==6.2.0
 protobuf==3.3.0
 PyYAML==3.12
 requests==2.17.3
