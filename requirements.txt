@@ -4,7 +4,7 @@ h5py==2.7.0
 idna==2.5
 Keras==2.0.4
 minepy==1.2.0
-numpy==1.12.1
+numpy==1.22.0
 olefile==0.44
 Pillow==4.1.1
 protobuf==3.3.0
